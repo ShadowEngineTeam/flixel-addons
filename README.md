@@ -1,19 +1,15 @@
-![](https://raw.github.com/HaxeFlixel/haxeflixel.com/master/src/files/images/flixel-logos/flixel-addons.png)
+![](https://raw.githubusercontent.com/HaxeFlixel/haxeflixel.com/refs/heads/dev/content/_static/images/flixel-logos/flixel-addons.png)
 
-[flixel](https://github.com/HaxeFlixel/flixel) | [addons](https://github.com/HaxeFlixel/flixel-addons) | [ui](https://github.com/HaxeFlixel/flixel-ui) | [demos](https://github.com/HaxeFlixel/flixel-demos) | [tools](https://github.com/HaxeFlixel/flixel-tools) | [templates](https://github.com/HaxeFlixel/flixel-templates) | [docs](https://github.com/HaxeFlixel/flixel-docs) | [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com)
+[flixel](https://github.com/FNF-SE/flixel) | [addons](https://github.com/FNF-SE/flixel-addons) | [ui](https://github.com/FNF-SE/flixel-ui) | [demos](https://github.com/HaxeFlixel/flixel-demos) | [tools](https://github.com/HaxeFlixel/flixel-tools) | [templates](https://github.com/HaxeFlixel/flixel-templates) | [docs](https://github.com/HaxeFlixel/flixel-docs) | [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/HaxeFlixel/flixel-addons/main.yml?branch=dev&logo=github)](https://github.com/HaxeFlixel/flixel/actions?query=workflow%3ACI)
-[![Discord](https://img.shields.io/discord/162395145352904705.svg?logo=discord)](https://discordapp.com/invite/rqEBAgF)
-[![Haxelib Version](https://badgen.net/haxelib/v/flixel-addons)](https://lib.haxe.org/p/flixel-addons)
-[![Haxelib Downloads](https://badgen.net/haxelib/d/flixel-addons?color=blue)](https://lib.haxe.org/p/flixel-addons)
+[![Flixel Discord](https://img.shields.io/discord/162395145352904705.svg?logo=discord)](https://discordapp.com/invite/rqEBAgF)
 [![Haxelib License](https://badgen.net/haxelib/license/flixel-addons)](LICENSE.md)
-[![Patreon](https://img.shields.io/badge/donate-patreon-blue.svg)](https://www.patreon.com/haxeflixel) 
-
+[![Flixel Patreon](https://img.shields.io/badge/donate-patreon-blue.svg)](https://www.patreon.com/haxeflixel) 
 
 
 ## About
 
-A set of useful, but optional classes for [HaxeFlixel](https://github.com/HaxeFlixel/flixel) created by the community. Includes some classes from the [Flixel Power Tools](https://github.com/photonstorm/Flixel-Power-Tools).
+A set of useful, but optional classes for [HaxeFlixel](https://github.com/FNF-SE/flixel) created by the community. Includes some classes from the [Flixel Power Tools](https://github.com/photonstorm/Flixel-Power-Tools).
 
 ## For Developers
 
