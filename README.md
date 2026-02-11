@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/HaxeFlixel/haxeflixel.com/refs/heads/dev/content/_static/images/flixel-logos/flixel-addons.png)
 
-[flixel](https://github.com/FNF-SE/flixel) | [addons](https://github.com/FNF-SE/flixel-addons) | [ui](https://github.com/FNF-SE/flixel-ui) | [demos](https://github.com/HaxeFlixel/flixel-demos) | [tools](https://github.com/HaxeFlixel/flixel-tools) | [templates](https://github.com/HaxeFlixel/flixel-templates) | [docs](https://github.com/HaxeFlixel/flixel-docs) | [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com)
+[flixel](https://github.com/ShadowEngineTeam/flixel) | [addons](https://github.com/ShadowEngineTeam/flixel-addons) | [ui](https://github.com/ShadowEngineTeam/flixel-ui) | [demos](https://github.com/HaxeFlixel/flixel-demos) | [tools](https://github.com/HaxeFlixel/flixel-tools) | [templates](https://github.com/HaxeFlixel/flixel-templates) | [docs](https://github.com/HaxeFlixel/flixel-docs) | [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com)
 
 [![Flixel Discord](https://img.shields.io/discord/162395145352904705.svg?logo=discord)](https://discordapp.com/invite/rqEBAgF)
 [![Haxelib License](https://badgen.net/haxelib/license/flixel-addons)](LICENSE.md)
@@ -9,7 +9,7 @@
 
 ## About
 
-A set of useful, but optional classes for [HaxeFlixel](https://github.com/FNF-SE/flixel) created by the community. Includes some classes from the [Flixel Power Tools](https://github.com/photonstorm/Flixel-Power-Tools).
+A set of useful, but optional classes for [HaxeFlixel](https://github.com/ShadowEngineTeam/flixel) created by the community. Includes some classes from the [Flixel Power Tools](https://github.com/photonstorm/Flixel-Power-Tools).
 
 ## For Developers
 
