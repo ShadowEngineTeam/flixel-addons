@@ -247,6 +247,6 @@ class FlxRayCastTilemap extends FlxTilemap
 		return getRowPos(getRow(mapIndex));
 	}
 }
-#elseif FLX_NO_COVERAGE_TEST
+#elseif (FLX_NO_COVERAGE_TEST && !USING_SHADOW_ENGINE)
 #error "FlxRayCastTilemap has been removed in flixel-addons 4.0.0, use FlxTilemap.ray or rayStep, instead"
 #end
